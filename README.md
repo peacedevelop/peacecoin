@@ -36,8 +36,6 @@ Come and join us to make the world a better place full with peace, justice and d
 Love and Peace!
 
 PeaceCoin Development Team
-License
--------
 
 Nodes:
 
@@ -48,6 +46,10 @@ Nodes:
 107.170.23.164
 
 Default Port : 1945 (Please search on the Google for 1945 :) )
+
+License
+-------
+
 
 Peacecoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
