@@ -15,6 +15,27 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Peacecoin client software.
 
+Why PEACECOIN?
+
+Our dream is a world full of peace, people on it sharing similar values and quality of life even though they don’t speak the same language. PeaceCoin shines as a light of hope for that purpose. Our primary target is uniting all people for a single purpose and creating a trust against war, poverty, injustice and anti-democratic actions.
+
+PeaceCoin will not only be a trading value, but will be an asset which gives hope to people that need help. In order to achieve that goal, we need you; the people who cares about technology and humanity. Our hope is PeaceCoin’s value will make world a better place for millions of children, women and men that deserves a better life.
+
+PeaceCoin designed 0.5% pre-mined in order to reach the target of peace and ending poverty. Due to reasons stated above, we want it to be mined equal to the amount of hungry people living on Earth. So it will remind the truth, which most of us ignoring, to humanity..
+
+Around 900 million people on Earth are struggling with hunger and poverty at the moment. So the amount of PeaceCoin that will be mined will be 900 million, which is a sad but true number, and will remind people who are using it that someone on Earth is still hungry and need help.
+
+How will PeaceCoin contribute to humanity?
+
+Our initial target is donating pre-mined PeaceCoins to international welfare and humanitarian institutions and increase those donations with several campaigns later on. After that, we will continue to donate some part of the revenue that we gain from our services (pool deduction etc) to humanitarian institutions such as UNICEF.
+
+PeaceCoin will provide more services with it’s software development team and volunteers and increase the reach. Each and every service will increase the value of the PeaceCoin.
+
+Come and join us to make the world a better place full with peace, justice and democracy. Do not forget: every single drop in the ocean is as valuable as the ocean itself..
+
+Love and Peace!
+
+PeaceCoin Development Team
 License
 -------
 
