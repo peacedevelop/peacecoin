@@ -41,8 +41,8 @@ License
 
 Nodes:
 
-168.62.39.180 / 
-137.117.104.157 /
+168.62.39.180
+137.117.104.157
 107.170.23.164
 
 Default Port : 1945 (Please search on the Google for 1945 :) )
