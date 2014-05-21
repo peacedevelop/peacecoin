@@ -39,11 +39,7 @@ PeaceCoin Development Team
 
 Nodes:
 
-168.62.39.180
-
-137.117.104.157
-
-107.170.23.164
+88.249.21.238
 
 Default Port : 1945 (Please search on the Google for 1945 :) )
 
